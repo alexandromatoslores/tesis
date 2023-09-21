@@ -1,0 +1,9 @@
+En la empresa Xetid, cuando se da de alta a un nuevo trabajador, el especialista de recursos humanos crea un documento de solicitud de creación de usuario y correo nuevos. Este documento se carga en la plataforma de trámites, donde pasa por un proceso de firma digital por parte de la directora y la especialista de recursos humanos. El documento de solicitud se envía a "Gestión y Atención al Cliente", quienes asignan la petición al centro "Informatización". Este centro es responsable de gestionar las cuentas de usuario, y verifica que los datos del nuevo usuario no se encuentren ya en el sistema. Si el usuario es nuevo, se procede a crear la cuenta y se envía el documento de solicitud al Centro de Datos para crear el correo correspondiente. Si "Informatización" detecta que el usuario propuesto ya se encuentra en el sistema, se notifica a la especialista de RH para que envíe una nueva solicitud con una propuesta de usuario diferente. 
+
+Por otro lado, cuando se da de baja a un trabajador, la especialista de recursos humanos crea una carta de solicitud de cancelación de usuario y correo. Este documento también pasa por un proceso de firma digital y se envía a "Gestión y Atención al Cliente", quienes lo asignan al centro "Informatización". Este centro es responsable de eliminar la cuenta de usuario correspondiente y de enviar el documento de solicitud al Centro de Datos para eliminar el correo asociado. 
+
+Actualmente, estos procesos se demoran debido a la carga de trabajo de "Gestión y Atención al Cliente". Por lo tanto, se propone enviar el documento de solicitud directamente a "Informatización" para optimizar el proceso y reducir la duración del mismo. Los datos necesarios para la carta de solicitud son: nombre y apellidos, CI, área a la que ingresará la persona, usuario propuesto, fecha de alta, fecha de baja y observaciones.
+
+
+
+
